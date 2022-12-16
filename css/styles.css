@@ -11303,10 +11303,11 @@ textarea.form-control-lg {
 header.masthead {
   position: relative;
   background-color: #343a40;
-  background: url("../assets/img/grassbackground.jpg") no-repeat center center;
+  background: url("../assets/img/sunset.JPG") no-repeat center center;
   background-size: cover;
   padding-top: 8rem;
   padding-bottom: 8rem;
+  opacity: 0.8;
 }
 header.masthead:before {
   content: "";
@@ -11359,10 +11360,11 @@ header.masthead h1, header.masthead .h1 {
 .call-to-action {
   position: relative;
   background-color: #343a40;
-  background: url("../assets/img/grassbackground.jpg") no-repeat center center;
+  background: url("../assets/img/sunset.JPG") no-repeat center center;
   background-size: cover;
   padding-top: 7rem;
   padding-bottom: 7rem;
+  opacity: 0.7;
 }
 .call-to-action:before {
   content: "";
